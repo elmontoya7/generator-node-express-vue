@@ -1,0 +1,23 @@
+{
+  "name": "generator-node-express-vue",
+  "version": "1.0.0",
+  "description": "Simple node + express + express-vue generator on Yeoman",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [
+    "express",
+    "node",
+    "yeoman-generator",
+    "express-vue"
+  ],
+  "author": "Alexis Rodriguez @elmontoya7",
+  "repository": "https://github.com/elmontoya7/generator-node-express-vue",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "express": "^4.16.3",
+    "express-vue": "^5.6.6"
+  }
+}
